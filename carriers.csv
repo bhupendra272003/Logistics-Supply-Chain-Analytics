@@ -1,0 +1,7 @@
+carrier_id,carrier_name,service_type
+C001,SwiftMove Logistics,Road
+C002,BlueRoute Transport,Road
+C003,SkyBridge Cargo,Air
+C004,RailLink Freight,Rail
+C005,National Parcel Network,Road
+C006,ExpressWing,Air

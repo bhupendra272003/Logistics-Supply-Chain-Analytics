@@ -1,0 +1,17 @@
+location_id,city,state,region
+L001,Delhi,Delhi,North
+L002,Jaipur,Rajasthan,North
+L003,Udaipur,Rajasthan,North
+L004,Ahmedabad,Gujarat,West
+L005,Mumbai,Maharashtra,West
+L006,Pune,Maharashtra,West
+L007,Bengaluru,Karnataka,South
+L008,Chennai,Tamil Nadu,South
+L009,Hyderabad,Telangana,South
+L010,Kolkata,West Bengal,East
+L011,Lucknow,Uttar Pradesh,North
+L012,Indore,Madhya Pradesh,Central
+L013,Nagpur,Maharashtra,West
+L014,Bhopal,Madhya Pradesh,Central
+L015,Surat,Gujarat,West
+L016,Coimbatore,Tamil Nadu,South

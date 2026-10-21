@@ -1,0 +1,1205 @@
+order_id,product_category,quantity,order_value_inr,priority
+ORD00001,Home & Kitchen,17,33177.87,Standard
+ORD00002,Industrial,26,43653.97,Standard
+ORD00003,Grocery,20,16588.95,Standard
+ORD00004,Industrial,5,60583.73,Critical
+ORD00005,Personal Care,17,14765.08,Critical
+ORD00006,Personal Care,9,53962.48,Critical
+ORD00007,Home & Kitchen,29,14268.9,Critical
+ORD00008,Apparel,19,36167.79,Express
+ORD00009,Personal Care,8,13636.54,Express
+ORD00010,Personal Care,24,53926.15,Critical
+ORD00011,Electronics,26,31964.25,Standard
+ORD00012,Grocery,21,41703.61,Standard
+ORD00013,Apparel,23,48295.1,Express
+ORD00014,Home & Kitchen,17,84382.07,Express
+ORD00015,Personal Care,22,5675.93,Standard
+ORD00016,Grocery,15,30982.4,Standard
+ORD00017,Home & Kitchen,28,47696.62,Standard
+ORD00018,Electronics,30,83371.63,Critical
+ORD00019,Electronics,26,23156.51,Express
+ORD00020,Home & Kitchen,24,80115.11,Express
+ORD00021,Personal Care,23,2000.02,Express
+ORD00022,Industrial,14,61180.24,Express
+ORD00023,Apparel,26,81897.11,Standard
+ORD00024,Home & Kitchen,6,63953.6,Express
+ORD00025,Home & Kitchen,16,39837.89,Express
+ORD00026,Home & Kitchen,29,23961.39,Express
+ORD00027,Home & Kitchen,27,60563.37,Express
+ORD00028,Electronics,28,28050.92,Standard
+ORD00029,Personal Care,22,3994.25,Standard
+ORD00030,Personal Care,6,40403.75,Critical
+ORD00031,Home & Kitchen,30,54244.8,Express
+ORD00032,Industrial,23,29280.49,Standard
+ORD00033,Home & Kitchen,17,29865.3,Critical
+ORD00034,Home & Kitchen,14,37619.57,Express
+ORD00035,Apparel,14,74198.17,Express
+ORD00036,Industrial,30,63420.25,Critical
+ORD00037,Industrial,17,18829.93,Standard
+ORD00038,Apparel,23,26399.8,Critical
+ORD00039,Industrial,13,13721.29,Standard
+ORD00040,Home & Kitchen,10,7145.03,Express
+ORD00041,Industrial,11,71926.52,Express
+ORD00042,Apparel,16,21373.97,Standard
+ORD00043,Electronics,27,66152.41,Express
+ORD00044,Apparel,24,70842.17,Express
+ORD00045,Electronics,16,16908.12,Critical
+ORD00046,Industrial,16,33418.79,Standard
+ORD00047,Electronics,17,65066.91,Standard
+ORD00048,Personal Care,13,55866.11,Express
+ORD00049,Apparel,6,39374.37,Standard
+ORD00050,Industrial,10,61159.93,Standard
+ORD00051,Personal Care,23,28752.47,Standard
+ORD00052,Apparel,17,65356.37,Express
+ORD00053,Grocery,26,35936.49,Express
+ORD00054,Personal Care,16,22778.81,Standard
+ORD00055,Electronics,25,48956.97,Standard
+ORD00056,Personal Care,4,53936.48,Express
+ORD00057,Personal Care,26,15169.9,Critical
+ORD00058,Electronics,19,48671.81,Standard
+ORD00059,Grocery,1,38155.44,Standard
+ORD00060,Apparel,13,48933.93,Standard
+ORD00061,Electronics,15,58778.76,Critical
+ORD00062,Electronics,5,81054.11,Critical
+ORD00063,Industrial,7,31346.07,Express
+ORD00064,Home & Kitchen,28,43931.92,Standard
+ORD00065,Personal Care,2,57508.59,Express
+ORD00066,Industrial,18,62007.1,Express
+ORD00067,Industrial,22,23557.44,Standard
+ORD00068,Industrial,7,51410.7,Critical
+ORD00069,Industrial,30,57952.21,Express
+ORD00070,Industrial,17,55223.98,Critical
+ORD00071,Home & Kitchen,12,41868.83,Critical
+ORD00072,Electronics,6,68919.74,Standard
+ORD00073,Personal Care,1,71837.42,Express
+ORD00074,Grocery,29,37621.75,Standard
+ORD00075,Apparel,17,79347.83,Standard
+ORD00076,Personal Care,21,32692.43,Critical
+ORD00077,Apparel,10,83432.36,Express
+ORD00078,Grocery,20,23955.79,Express
+ORD00079,Electronics,26,67280.15,Critical
+ORD00080,Electronics,11,45024.77,Standard
+ORD00081,Grocery,18,32312.36,Critical
+ORD00082,Personal Care,6,19950.79,Critical
+ORD00083,Industrial,7,30125.78,Standard
+ORD00084,Home & Kitchen,21,8843.16,Critical
+ORD00085,Industrial,18,6112.5,Express
+ORD00086,Electronics,18,45093.81,Standard
+ORD00087,Electronics,3,19247.26,Express
+ORD00088,Grocery,21,27032.17,Critical
+ORD00089,Home & Kitchen,16,34848.72,Express
+ORD00090,Apparel,26,81624.38,Critical
+ORD00091,Apparel,22,21950.37,Express
+ORD00092,Personal Care,19,22645.02,Standard
+ORD00093,Home & Kitchen,23,36341.69,Critical
+ORD00094,Home & Kitchen,11,32477.75,Express
+ORD00095,Industrial,16,53803.65,Critical
+ORD00096,Industrial,13,39524.79,Express
+ORD00097,Industrial,3,63600.25,Express
+ORD00098,Personal Care,1,12092.25,Express
+ORD00099,Industrial,24,45651.4,Critical
+ORD00100,Apparel,6,74748.78,Critical
+ORD00101,Home & Kitchen,27,28225.23,Critical
+ORD00102,Personal Care,24,77134.52,Express
+ORD00103,Personal Care,16,74664.22,Standard
+ORD00104,Industrial,12,15998.1,Critical
+ORD00105,Home & Kitchen,5,16419.53,Critical
+ORD00106,Electronics,24,10632.39,Standard
+ORD00107,Personal Care,21,71612.79,Critical
+ORD00108,Industrial,17,26718.37,Express
+ORD00109,Home & Kitchen,29,10758.23,Express
+ORD00110,Grocery,15,9556.63,Express
+ORD00111,Industrial,21,15291.39,Critical
+ORD00112,Industrial,15,38746.82,Critical
+ORD00113,Industrial,14,2387.27,Critical
+ORD00114,Industrial,12,31120.46,Express
+ORD00115,Electronics,3,795.47,Standard
+ORD00116,Apparel,11,3747.53,Express
+ORD00117,Personal Care,19,53407.22,Standard
+ORD00118,Electronics,17,6346.82,Critical
+ORD00119,Industrial,23,4144.8,Express
+ORD00120,Home & Kitchen,18,51711.39,Standard
+ORD00121,Industrial,6,20565.92,Express
+ORD00122,Electronics,24,80728.01,Express
+ORD00123,Personal Care,4,33237.77,Critical
+ORD00124,Personal Care,7,79714.1,Critical
+ORD00125,Industrial,17,40757.05,Critical
+ORD00126,Grocery,24,47474.73,Express
+ORD00127,Industrial,9,60713.57,Express
+ORD00128,Personal Care,13,44408.59,Express
+ORD00129,Home & Kitchen,2,57462.2,Express
+ORD00130,Apparel,5,22219.44,Express
+ORD00131,Apparel,30,46827.42,Standard
+ORD00132,Home & Kitchen,5,29291.53,Standard
+ORD00133,Personal Care,27,7547.88,Critical
+ORD00134,Industrial,30,67994.13,Critical
+ORD00135,Personal Care,4,60146.73,Standard
+ORD00136,Apparel,22,39867.67,Express
+ORD00137,Grocery,6,58919.08,Critical
+ORD00138,Grocery,25,82827.63,Critical
+ORD00139,Home & Kitchen,27,50602.89,Standard
+ORD00140,Industrial,16,42443.51,Express
+ORD00141,Industrial,13,16370.66,Critical
+ORD00142,Grocery,16,2510.8,Standard
+ORD00143,Industrial,1,47953.59,Express
+ORD00144,Personal Care,29,54751.48,Express
+ORD00145,Industrial,4,72129.67,Express
+ORD00146,Personal Care,7,83939.93,Standard
+ORD00147,Industrial,9,58987.7,Express
+ORD00148,Personal Care,15,61815.22,Express
+ORD00149,Industrial,17,39540.38,Express
+ORD00150,Electronics,25,40846.24,Standard
+ORD00151,Industrial,16,45014.99,Critical
+ORD00152,Grocery,17,59339.94,Critical
+ORD00153,Electronics,23,37541.33,Express
+ORD00154,Electronics,11,39851.1,Express
+ORD00155,Electronics,15,64710.88,Express
+ORD00156,Industrial,22,15492.55,Critical
+ORD00157,Home & Kitchen,20,52770.1,Critical
+ORD00158,Apparel,18,13598.72,Critical
+ORD00159,Electronics,25,55471.43,Standard
+ORD00160,Personal Care,8,75550.5,Express
+ORD00161,Grocery,30,45750.25,Express
+ORD00162,Electronics,3,16421.18,Express
+ORD00163,Personal Care,2,27448.73,Standard
+ORD00164,Apparel,12,17388.37,Standard
+ORD00165,Industrial,7,41693.17,Critical
+ORD00166,Home & Kitchen,8,48921.76,Express
+ORD00167,Electronics,5,45270.45,Critical
+ORD00168,Apparel,8,79261.06,Critical
+ORD00169,Industrial,28,73494.12,Critical
+ORD00170,Home & Kitchen,12,84669.22,Express
+ORD00171,Electronics,6,40078.8,Express
+ORD00172,Industrial,4,46490.19,Standard
+ORD00173,Industrial,28,49468.55,Critical
+ORD00174,Home & Kitchen,7,8853.24,Express
+ORD00175,Grocery,7,14782.1,Critical
+ORD00176,Grocery,24,31512.99,Critical
+ORD00177,Electronics,16,50040.92,Critical
+ORD00178,Electronics,2,1786.05,Critical
+ORD00179,Industrial,3,26752.91,Express
+ORD00180,Industrial,14,12748.02,Standard
+ORD00181,Personal Care,9,11462.98,Critical
+ORD00182,Grocery,30,31906.19,Critical
+ORD00183,Electronics,1,44149.34,Critical
+ORD00184,Apparel,26,19913.2,Standard
+ORD00185,Grocery,11,82522.64,Critical
+ORD00186,Home & Kitchen,1,6883.79,Express
+ORD00187,Electronics,28,81550.43,Standard
+ORD00188,Industrial,9,43859.95,Express
+ORD00189,Home & Kitchen,21,76507.87,Express
+ORD00190,Grocery,9,20346.54,Critical
+ORD00191,Apparel,4,28014.64,Express
+ORD00192,Home & Kitchen,26,69795.02,Standard
+ORD00193,Grocery,12,4563.36,Critical
+ORD00194,Home & Kitchen,26,80770.57,Standard
+ORD00195,Personal Care,6,67548.53,Standard
+ORD00196,Electronics,9,54914.3,Express
+ORD00197,Electronics,23,53077.78,Standard
+ORD00198,Apparel,1,9285.07,Standard
+ORD00199,Industrial,21,11319.27,Express
+ORD00200,Industrial,21,33541.88,Critical
+ORD00201,Home & Kitchen,16,49708.99,Critical
+ORD00202,Apparel,23,23276.95,Critical
+ORD00203,Industrial,6,78117.73,Critical
+ORD00204,Grocery,20,1815.07,Standard
+ORD00205,Electronics,2,7047.08,Standard
+ORD00206,Electronics,11,21444.2,Standard
+ORD00207,Electronics,23,54192.17,Critical
+ORD00208,Industrial,18,38608.37,Express
+ORD00209,Home & Kitchen,30,41483.74,Express
+ORD00210,Industrial,12,3149.88,Standard
+ORD00211,Personal Care,25,58237.46,Critical
+ORD00212,Home & Kitchen,7,39354.41,Critical
+ORD00213,Apparel,10,80929.22,Express
+ORD00214,Industrial,8,34957.25,Express
+ORD00215,Home & Kitchen,1,62540.37,Standard
+ORD00216,Apparel,20,71737.4,Express
+ORD00217,Industrial,21,51980.34,Standard
+ORD00218,Industrial,4,35782.23,Express
+ORD00219,Home & Kitchen,21,57149.68,Critical
+ORD00220,Electronics,24,57775.67,Critical
+ORD00221,Apparel,5,5078.19,Critical
+ORD00222,Electronics,22,66983.49,Standard
+ORD00223,Electronics,17,42865.81,Express
+ORD00224,home & kitchen,27,73487.74,Express
+ORD00225,Electronics,7,23677.02,Standard
+ORD00226,Apparel,14,44925.89,Critical
+ORD00227,Home & Kitchen,23,46613.26,Critical
+ORD00228,Apparel,21,34829.66,Critical
+ORD00229,Home & Kitchen,26,1323.79,Critical
+ORD00230,Grocery,15,14699.43,Express
+ORD00231,Electronics,5,71871.47,Critical
+ORD00232,Apparel,4,76381.18,Standard
+ORD00233,Industrial,23,59128.38,Critical
+ORD00234,Personal Care,13,20103.84,Express
+ORD00235,Personal Care,4,4452.36,Standard
+ORD00236,Home & Kitchen,18,2924.57,Express
+ORD00237,Home & Kitchen,14,1984.45,Standard
+ORD00238,Apparel,26,4634.19,Express
+ORD00239,Grocery,10,59257.14,Critical
+ORD00240,Industrial,5,6497.02,Express
+ORD00241,Personal Care,11,4855.06,Express
+ORD00242,Apparel,3,28555.97,Critical
+ORD00243,Apparel,26,18684.65,Critical
+ORD00244,Electronics,9,11001.49,Standard
+ORD00245,Apparel,11,49913.54,Critical
+ORD00246,Home & Kitchen,21,44438.87,Standard
+ORD00247,Personal Care,7,58987.45,Express
+ORD00248,Grocery,23,35383.44,Critical
+ORD00249,Electronics,3,48121.52,Critical
+ORD00250,Electronics,29,63498.54,Standard
+ORD00251,Apparel,4,22877.58,Critical
+ORD00252,Apparel,15,82677.5,Standard
+ORD00253,Apparel,3,55096.56,Standard
+ORD00254,Personal Care,25,81244.3,Express
+ORD00255,Grocery,17,10552.63,Standard
+ORD00256,Electronics,17,77660.04,Critical
+ORD00257,Grocery,22,10761.95,Standard
+ORD00258,Home & Kitchen,29,11875.76,Express
+ORD00259,Personal Care,15,80735.74,Standard
+ORD00260,Grocery,30,19315.71,Express
+ORD00261,Home & Kitchen,26,37122.06,Express
+ORD00262,Industrial,6,62501.11,Express
+ORD00263,Personal Care,10,54314.99,Standard
+ORD00264,Industrial,13,708.5,Critical
+ORD00265,Personal Care,18,26272.45,Critical
+ORD00266,Grocery,11,59741.7,Express
+ORD00267,Grocery,17,6463.58,Express
+ORD00268,Grocery,20,13827.45,Express
+ORD00269,Industrial,1,73007.57,Express
+ORD00270,Electronics,13,47857.89,Express
+ORD00271,Apparel,24,79541.94,Express
+ORD00272,Apparel,21,63747.24,Critical
+ORD00273,Personal Care,12,72787.2,Standard
+ORD00274,Industrial,9,82651.56,Standard
+ORD00275,Apparel,11,40238.35,Critical
+ORD00276,Industrial,17,1713.47,Express
+ORD00277,Apparel,26,82148.77,Critical
+ORD00278,Industrial,15,19429.99,Standard
+ORD00279,Personal Care,27,52920.46,Critical
+ORD00280,Electronics,4,45830.59,Standard
+ORD00281,Electronics,1,74440.27,Standard
+ORD00282,Grocery,29,47767.66,Standard
+ORD00283,Home & Kitchen,9,83731.67,Critical
+ORD00284,Home & Kitchen,28,71462.04,Critical
+ORD00285,Grocery,6,72745.14,Express
+ORD00286,Home & Kitchen,8,38552.47,Standard
+ORD00287,Grocery,18,27019.01,Standard
+ORD00288,Apparel,8,27690.23,Critical
+ORD00289,Home & Kitchen,26,1481.19,Express
+ORD00290,Home & Kitchen,28,64959.08,Standard
+ORD00291,Grocery,19,73600.86,Standard
+ORD00292,Industrial,19,23617.54,Standard
+ORD00293,Grocery,16,17452.35,Express
+ORD00294,Personal Care,28,68323.15,Critical
+ORD00295,Electronics,21,62566.36,Express
+ORD00296,Apparel,3,4726.07,Express
+ORD00297,Grocery,1,78486.55,Critical
+ORD00298,Apparel,18,64333.78,Express
+ORD00299,Industrial,25,18644.29,Standard
+ORD00300,Home & Kitchen,18,67206.37,Standard
+ORD00301,Apparel,11,66027.46,Express
+ORD00302,Personal Care,6,5308.21,Express
+ORD00303,Grocery,1,43722.97,Standard
+ORD00304,Personal Care,19,19204.59,Express
+ORD00305,Industrial,18,57125.82,Express
+ORD00306,Apparel,18,12631.82,Express
+ORD00307,Electronics,23,78754.75,Critical
+ORD00308,Apparel,27,35322.63,Critical
+ORD00309,Personal Care,25,1807.26,Express
+ORD00310,Electronics,7,52820.66,Standard
+ORD00311,Apparel,19,13954.18,Express
+ORD00312,Personal Care,30,17818.34,Critical
+ORD00313,Home & Kitchen,12,70805.73,Critical
+ORD00314,Home & Kitchen,29,4850.16,Express
+ORD00315,Grocery,8,16079.04,Critical
+ORD00316,Industrial,9,40373.47,Express
+ORD00317,Apparel,19,65227.53,Critical
+ORD00318,Personal Care,22,27630.01,Standard
+ORD00319,Personal Care,24,39842.03,Express
+ORD00320,Home & Kitchen,3,13260.9,Express
+ORD00321,Apparel,15,71197.93,Standard
+ORD00322,Electronics,18,13911.87,Critical
+ORD00323,Home & Kitchen,21,42584.44,Express
+ORD00324,Home & Kitchen,14,23159.84,Express
+ORD00325,Industrial,27,39625.26,Critical
+ORD00326,Home & Kitchen,3,30959.6,Critical
+ORD00327,Personal Care,22,79849.23,Standard
+ORD00328,Electronics,24,46650.6,Critical
+ORD00329,Electronics,28,78607.24,Critical
+ORD00330,Electronics,6,64999.13,Critical
+ORD00331,Personal Care,30,74143.02,Express
+ORD00332,Electronics,29,60399.09,Express
+ORD00333,Electronics,9,36023.97,Express
+ORD00334,Industrial,20,30655.47,Express
+ORD00335,Industrial,19,10908.3,Standard
+ORD00336,Home & Kitchen,18,66014.51,Express
+ORD00337,Industrial,18,63829.18,Critical
+ORD00338,Home & Kitchen,16,25148.75,Critical
+ORD00339,Electronics,26,84405.53,Critical
+ORD00340,Personal Care,14,8269.4,Standard
+ORD00341,Industrial,22,29007.39,Express
+ORD00342,Grocery,11,54168.83,Standard
+ORD00343,Grocery,21,5984.06,Critical
+ORD00344,Home & Kitchen,2,65541.33,Critical
+ORD00345,Electronics,11,60640.42,Critical
+ORD00346,Apparel,26,70829.17,Critical
+ORD00347,Grocery,25,49571.36,Standard
+ORD00348,Grocery,21,3474.27,Standard
+ORD00349,Grocery,12,16225.27,Standard
+ORD00350,Industrial,5,57467.78,Standard
+ORD00351,Home & Kitchen,15,69688.65,Critical
+ORD00352,Grocery,26,73983.77,Critical
+ORD00353,Grocery,21,38039.69,Critical
+ORD00354,Personal Care,28,61320.96,Critical
+ORD00355,Grocery,17,34546.56,Critical
+ORD00356,Industrial,23,84020.28,Express
+ORD00357,Home & Kitchen,25,56219.69,Standard
+ORD00358,Industrial,8,5681.74,Standard
+ORD00359,Apparel,28,32774.72,Express
+ORD00360,Electronics,28,65719.51,Standard
+ORD00361,Grocery,23,20951.45,Express
+ORD00362,Industrial,17,33803.67,Express
+ORD00363,Electronics,13,67572.46,Critical
+ORD00364,Home & Kitchen,23,63286.91,Critical
+ORD00365,Personal Care,11,61401.47,Critical
+ORD00366,Electronics,10,4704.74,Express
+ORD00367,Electronics,23,31291.31,Standard
+ORD00368,Electronics,30,6300.81,Critical
+ORD00369,Electronics,9,58758.43,Critical
+ORD00370,Electronics,2,6367.79,Express
+ORD00371,Home & Kitchen,20,45775.07,Critical
+ORD00372,Grocery,16,4916.17,Critical
+ORD00373,Home & Kitchen,18,57133.27,Standard
+ORD00374,Grocery,18,21002.93,Standard
+ORD00375,home & kitchen,24,66250.15,Express
+ORD00376,Home & Kitchen,23,75949.07,Standard
+ORD00377,Industrial,23,3929.05,Critical
+ORD00378,Personal Care,13,72166.22,Express
+ORD00379,Home & Kitchen,2,36146.31,Critical
+ORD00380,Grocery,9,21191.13,Critical
+ORD00381,Apparel,3,30572.33,Express
+ORD00382,Personal Care,9,75888.98,Express
+ORD00383,Home & Kitchen,8,67275.79,Express
+ORD00384,Personal Care,30,33519.79,Express
+ORD00385,Apparel,9,30014.28,Critical
+ORD00386,Electronics,29,21975.01,Standard
+ORD00387,Apparel,15,46547.52,Critical
+ORD00388,Industrial,29,44624.87,Standard
+ORD00389,Industrial,26,68230.85,Critical
+ORD00390,Apparel,21,36361.79,Standard
+ORD00391,Industrial,24,5017.92,Critical
+ORD00392,Electronics,28,8505.67,Express
+ORD00393,Electronics,23,41312.58,Express
+ORD00394,Electronics,22,64336.96,Standard
+ORD00395,Electronics,3,55171.21,Express
+ORD00396,Personal Care,22,12972.98,Critical
+ORD00397,Personal Care,8,7636.96,Express
+ORD00398,Home & Kitchen,7,5334.31,Standard
+ORD00399,Industrial,9,30042.16,Standard
+ORD00400,Electronics,15,41254.85,Critical
+ORD00401,Personal Care,22,47058.74,Express
+ORD00402,Electronics,17,16171.33,Critical
+ORD00403,Apparel,18,25014.13,Standard
+ORD00404,Home & Kitchen,16,34151.98,Express
+ORD00405,Electronics,9,40370.09,Standard
+ORD00406,Home & Kitchen,27,1280.02,Critical
+ORD00407,Grocery,8,66742.82,Express
+ORD00408,Personal Care,15,72780.29,Standard
+ORD00409,Personal Care,26,56961.39,Express
+ORD00410,Electronics,15,14108.96,Express
+ORD00411,Personal Care,5,54729.76,Standard
+ORD00412,Industrial,2,11056.75,Standard
+ORD00413,Industrial,26,68519.78,Critical
+ORD00414,Electronics,19,30571.19,Express
+ORD00415,Personal Care,24,74243.25,Express
+ORD00416,Grocery,16,848.77,Standard
+ORD00417,Personal Care,13,64036.71,Critical
+ORD00418,Industrial,15,60412.43,Standard
+ORD00419,Electronics,13,66079.63,Critical
+ORD00420,Apparel,8,36413.26,Express
+ORD00421,Apparel,6,55520.84,Standard
+ORD00422,Personal Care,27,27176.68,Critical
+ORD00423,Electronics,27,56259.75,Standard
+ORD00424,Personal Care,15,23107.04,Critical
+ORD00425,Home & Kitchen,18,36212.57,Standard
+ORD00426,Home & Kitchen,11,41743.44,Critical
+ORD00427,Home & Kitchen,17,58048.71,Critical
+ORD00428,Apparel,22,10654.11,Express
+ORD00429,Personal Care,13,22630.87,Critical
+ORD00430,Personal Care,7,39821.57,Express
+ORD00431,Personal Care,27,8976.55,Standard
+ORD00432,Industrial,13,69997.94,Critical
+ORD00433,Personal Care,17,32623.16,Standard
+ORD00434,Electronics,8,791.11,Express
+ORD00435,Apparel,10,9846.42,Standard
+ORD00436,Electronics,17,20458.79,Critical
+ORD00437,Apparel,8,71261.6,Standard
+ORD00438,Grocery,7,7095.29,Standard
+ORD00439,Personal Care,20,66337.64,Express
+ORD00440,Industrial,25,37663.22,Standard
+ORD00441,Apparel,17,32748.68,Express
+ORD00442,Grocery,9,80634.11,Express
+ORD00443,Home & Kitchen,18,46286.8,Critical
+ORD00444,Electronics,6,18538.5,Express
+ORD00445,Industrial,15,28708.4,Critical
+ORD00446,Home & Kitchen,17,41815.83,Standard
+ORD00447,Personal Care,3,2705.64,Critical
+ORD00448,Grocery,16,2325.88,Critical
+ORD00449,Personal Care,16,83450.52,Critical
+ORD00450,Apparel,10,6835.24,Standard
+ORD00451,Industrial,21,29483.27,Express
+ORD00452,Industrial,4,43038.14,Standard
+ORD00453,Apparel,16,46389.54,Express
+ORD00454,Industrial,2,55597.14,Standard
+ORD00455,Apparel,5,5014.49,Critical
+ORD00456,Industrial,26,57836.18,Critical
+ORD00457,Electronics,4,27425.56,Critical
+ORD00458,Personal Care,5,13905.36,Critical
+ORD00459,Industrial,1,15621.82,Standard
+ORD00460,Apparel,29,23446.23,Standard
+ORD00461,Grocery,28,82679.74,Critical
+ORD00462,Electronics,18,63750.0,Standard
+ORD00463,Personal Care,29,44734.96,Critical
+ORD00464,Personal Care,8,20878.83,Express
+ORD00465,Electronics,12,21408.71,Critical
+ORD00466,Grocery,12,56826.38,Standard
+ORD00467,Home & Kitchen,22,19712.65,Critical
+ORD00468,Electronics,29,15613.36,Critical
+ORD00469,Electronics,26,82789.18,Critical
+ORD00470,Home & Kitchen,27,4875.47,Express
+ORD00471,Apparel,8,69499.08,Standard
+ORD00472,Apparel,10,67516.42,Express
+ORD00473,Industrial,6,9034.79,Standard
+ORD00474,Grocery,10,84419.16,Standard
+ORD00475,Apparel,29,50693.43,Critical
+ORD00476,Home & Kitchen,18,79391.59,Critical
+ORD00477,Grocery,4,59994.0,Standard
+ORD00478,Personal Care,7,31946.37,Express
+ORD00479,Electronics,24,17888.68,Critical
+ORD00480,Home & Kitchen,16,67111.98,Standard
+ORD00481,Industrial,4,49775.83,Standard
+ORD00482,Apparel,9,26663.88,Critical
+ORD00483,Electronics,28,49517.04,Critical
+ORD00484,Industrial,17,74207.47,Express
+ORD00485,Personal Care,7,42114.43,Critical
+ORD00486,Apparel,16,72564.13,Standard
+ORD00487,Personal Care,26,44245.46,Critical
+ORD00488,Apparel,16,77682.2,Critical
+ORD00489,Electronics,8,58624.56,Express
+ORD00490,Grocery,11,33155.64,Express
+ORD00491,Industrial,30,51377.5,Critical
+ORD00492,Personal Care,28,34646.02,Critical
+ORD00493,Personal Care,29,77568.34,Critical
+ORD00494,Personal Care,6,48547.61,Critical
+ORD00495,Personal Care,29,66222.53,Critical
+ORD00496,Grocery,8,44044.48,Critical
+ORD00497,Industrial,17,22507.46,Standard
+ORD00498,Personal Care,11,3939.88,Critical
+ORD00499,Electronics,11,54395.88,Express
+ORD00500,Electronics,16,44677.57,Critical
+ORD00501,Apparel,26,8360.45,Express
+ORD00502,Grocery,14,16879.4,Express
+ORD00503,Home & Kitchen,10,13640.1,Standard
+ORD00504,Industrial,9,52752.91,Express
+ORD00505,Apparel,14,72197.1,Standard
+ORD00506,Home & Kitchen,14,83245.84,Critical
+ORD00507,Home & Kitchen,5,30068.66,Express
+ORD00508,Electronics,8,21150.65,Critical
+ORD00509,Industrial,23,25109.32,Express
+ORD00510,Home & Kitchen,7,22434.14,Standard
+ORD00511,Grocery,14,43292.6,Express
+ORD00512,Apparel,20,14505.96,Express
+ORD00513,Grocery,29,63094.03,Critical
+ORD00514, electronics ,26,21636.83,Standard
+ORD00515,Grocery,9,8302.47,Standard
+ORD00516,Grocery,24,76040.47,Express
+ORD00517,Industrial,28,23875.07,Express
+ORD00518,Personal Care,7,57699.33,Express
+ORD00519,Personal Care,18,53978.02,Critical
+ORD00520,Grocery,30,80886.62,Express
+ORD00521,Personal Care,30,8924.71,Critical
+ORD00522,Apparel,17,58237.15,Express
+ORD00523,Home & Kitchen,7,15483.87,Critical
+ORD00524,Electronics,20,45286.91,Express
+ORD00525,Grocery,28,28880.42,Express
+ORD00526,Industrial,25,7961.74,Critical
+ORD00527,Grocery,2,17875.69,Express
+ORD00528,Electronics,23,26999.06,Critical
+ORD00529,Personal Care,30,20194.14,Critical
+ORD00530,Grocery,4,42465.05,Critical
+ORD00531,Grocery,20,39161.56,Express
+ORD00532,Home & Kitchen,3,21930.49,Critical
+ORD00533,Personal Care,9,67245.19,Express
+ORD00534,Industrial,27,6551.22,Critical
+ORD00535,Home & Kitchen,11,57228.23,Express
+ORD00536,Electronics,10,16661.14,Critical
+ORD00537,Grocery,19,71751.8,Express
+ORD00538,Electronics,5,31713.38,Standard
+ORD00539,Grocery,8,40902.53,Express
+ORD00540,Electronics,5,84370.22,Critical
+ORD00541,Home & Kitchen,2,7688.53,Express
+ORD00542,Home & Kitchen,18,1495.5,Express
+ORD00543,Apparel,6,37306.53,Critical
+ORD00544,Grocery,23,18655.34,Express
+ORD00545,Grocery,20,2306.3,Critical
+ORD00546,Electronics,12,45261.9,Express
+ORD00547,Grocery,29,44165.61,Standard
+ORD00548,Apparel,7,48467.67,Express
+ORD00549,Industrial,9,46113.28,Standard
+ORD00550,Apparel,12,22450.71,Critical
+ORD00551,Personal Care,7,36196.03,Standard
+ORD00552,Home & Kitchen,22,58897.44,Critical
+ORD00553,Apparel,24,725.3,Critical
+ORD00554,Personal Care,16,69685.31,Critical
+ORD00555,Personal Care,26,56633.1,Standard
+ORD00556,Grocery,20,5990.47,Express
+ORD00557,Personal Care,13,45881.77,Standard
+ORD00558,Electronics,20,66243.3,Express
+ORD00559,Personal Care,11,42586.78,Standard
+ORD00560,Industrial,21,64571.0,Express
+ORD00561,Industrial,14,81080.03,Express
+ORD00562,Home & Kitchen,9,25563.69,Standard
+ORD00563,Electronics,4,46934.98,Standard
+ORD00564,Apparel,15,77512.54,Express
+ORD00565,Home & Kitchen,25,82798.36,Standard
+ORD00566,Personal Care,30,49092.18,Express
+ORD00567,Grocery,29,60950.69,Critical
+ORD00568,Industrial,16,10664.43,Critical
+ORD00569,Personal Care,19,14452.06,Critical
+ORD00570,Electronics,13,11428.7,Express
+ORD00571,Grocery,25,30497.23,Standard
+ORD00572,Grocery,2,59741.27,Critical
+ORD00573,Grocery,21,58950.14,Critical
+ORD00574,Electronics,18,40634.47,Express
+ORD00575,Personal Care,28,27406.0,Critical
+ORD00576,Industrial,17,59260.62,Critical
+ORD00577,Grocery,9,3550.55,Express
+ORD00578,Home & Kitchen,25,11873.17,Express
+ORD00579,Apparel,10,71577.78,Express
+ORD00580,Personal Care,13,35980.22,Standard
+ORD00581,Personal Care,30,54600.51,Critical
+ORD00582,Grocery,14,61758.03,Critical
+ORD00583,Industrial,29,4732.5,Express
+ORD00584,Electronics,11,82205.51,Standard
+ORD00585,Electronics,13,23402.74,Standard
+ORD00586,Electronics,27,70755.15,Express
+ORD00587,Industrial,15,3878.72,Critical
+ORD00588,Electronics,29,64123.93,Standard
+ORD00589,Apparel,30,82899.99,Express
+ORD00590,Home & Kitchen,25,36254.46,Express
+ORD00591,Apparel,15,47590.83,Standard
+ORD00592,Apparel,4,60046.27,Critical
+ORD00593,Apparel,3,68088.67,Express
+ORD00594,Electronics,1,81387.82,Express
+ORD00595,Home & Kitchen,1,31228.7,Standard
+ORD00596,Electronics,29,84412.61,Express
+ORD00597,Personal Care,7,16718.46,Critical
+ORD00598,Personal Care,6,2707.56,Critical
+ORD00599,Apparel,24,56265.4,Express
+ORD00600,Grocery,26,72926.18,Standard
+ORD00601,Industrial,24,35311.26,Critical
+ORD00602,Apparel,10,46636.58,Critical
+ORD00603,Industrial,2,17206.35,Critical
+ORD00604,Grocery,25,4824.12,Express
+ORD00605,Home & Kitchen,29,49535.49,Critical
+ORD00606,Personal Care,8,67299.31,Standard
+ORD00607,Personal Care,21,21225.33,Express
+ORD00608,Apparel,1,51867.75,Critical
+ORD00609,Grocery,13,28214.94,Express
+ORD00610,Electronics,5,50059.9,Critical
+ORD00611,Apparel,19,56103.93,Critical
+ORD00612,Electronics,28,75939.34,Standard
+ORD00613,Personal Care,29,26066.08,Standard
+ORD00614,Home & Kitchen,17,45535.69,Express
+ORD00615,Home & Kitchen,10,23885.36,Critical
+ORD00616,Apparel,21,72071.42,Express
+ORD00617,Apparel,5,20026.42,Standard
+ORD00618,Electronics,10,74689.37,Standard
+ORD00619,Apparel,12,44521.57,Critical
+ORD00620,Industrial,14,54576.95,Express
+ORD00621,Electronics,9,78770.65,Express
+ORD00622,Grocery,11,28105.15,Express
+ORD00623,Personal Care,4,58286.38,Express
+ORD00624,Apparel,10,9538.93,Critical
+ORD00625,Grocery,18,77185.67,Express
+ORD00626,Personal Care,7,51565.06,Express
+ORD00627,Apparel,13,69774.59,Critical
+ORD00628,Apparel,2,81354.18,Critical
+ORD00629,Industrial,20,75787.96,Critical
+ORD00630,Electronics,16,78290.43,Express
+ORD00631,Home & Kitchen,26,8269.09,Critical
+ORD00632,Industrial,16,84271.83,Critical
+ORD00633,Grocery,26,45172.27,Critical
+ORD00634,Personal Care,10,70903.43,Express
+ORD00635,Apparel,29,4520.36,Express
+ORD00636,Industrial,18,47265.91,Standard
+ORD00637,Industrial,10,47684.0,Standard
+ORD00638,Personal Care,9,66304.25,Critical
+ORD00639,Electronics,13,20689.82,Express
+ORD00640,Apparel,20,11276.4,Standard
+ORD00641,Personal Care,21,5761.23,Express
+ORD00642,Home & Kitchen,13,6038.66,Standard
+ORD00643,Personal Care,29,73295.14,Standard
+ORD00644,Home & Kitchen,16,46760.98,Express
+ORD00645,Home & Kitchen,20,68494.94,Standard
+ORD00646,Industrial,8,49969.79,Standard
+ORD00647,Industrial,19,78657.97,Critical
+ORD00648,Apparel,27,61066.44,Express
+ORD00649,Grocery,21,72856.26,Standard
+ORD00650,Apparel,6,69852.5,Express
+ORD00651,Apparel,10,3943.2,Standard
+ORD00652,Apparel,4,43176.4,Standard
+ORD00653,Electronics,29,30723.76,Critical
+ORD00654,Grocery,12,23024.91,Critical
+ORD00655,Home & Kitchen,26,40797.97,Express
+ORD00656,Electronics,19,84241.95,Standard
+ORD00657,Industrial,26,52332.83,Critical
+ORD00658,Electronics,20,39684.46,Standard
+ORD00659,Personal Care,28,7602.81,Standard
+ORD00660,Grocery,17,2311.09,Express
+ORD00661,Industrial,11,51266.07,Standard
+ORD00662,Home & Kitchen,2,4770.72,Critical
+ORD00663,Apparel,9,28326.62,Critical
+ORD00664,Home & Kitchen,7,66757.76,Standard
+ORD00665,Grocery,23,56244.39,Critical
+ORD00666,Apparel,3,25729.24,Critical
+ORD00667,Home & Kitchen,25,6452.3,Standard
+ORD00668,Personal Care,9,58669.01,Standard
+ORD00669,Apparel,27,77545.43,Express
+ORD00670,Personal Care,6,46888.39,Standard
+ORD00671,Home & Kitchen,29,13794.64,Critical
+ORD00672,Industrial,23,19356.97,Express
+ORD00673,Grocery,15,22051.81,Express
+ORD00674,Grocery,19,77247.93,Standard
+ORD00675,Grocery,19,29205.64,Standard
+ORD00676,Electronics,19,46754.16,Critical
+ORD00677,Grocery,10,53883.83,Standard
+ORD00678,Personal Care,29,61328.23,Express
+ORD00679,Personal Care,22,19686.37,Standard
+ORD00680,Industrial,18,57861.55,Standard
+ORD00681,Electronics,7,55559.66,Express
+ORD00682,Personal Care,24,38801.84,Standard
+ORD00683,Personal Care,21,57926.45,Critical
+ORD00684,Apparel,18,34488.14,Express
+ORD00685,Electronics,23,630.27,Express
+ORD00686,Industrial,3,26259.61,Standard
+ORD00687,Home & Kitchen,4,14076.46,Express
+ORD00688,Personal Care,13,64423.9,Critical
+ORD00689,Home & Kitchen,19,80686.32,Express
+ORD00690,Apparel,10,74294.14,Express
+ORD00691,Apparel,28,32465.87,Express
+ORD00692,Home & Kitchen,25,45279.92,Critical
+ORD00693,Apparel,19,5043.22,Express
+ORD00694,Grocery,29,80998.46,Express
+ORD00695,Personal Care,12,64155.18,Critical
+ORD00696,Apparel,25,72170.91,Express
+ORD00697,Home & Kitchen,24,7430.2,Express
+ORD00698,Home & Kitchen,4,65718.59,Critical
+ORD00699,Apparel,8,41757.53,Express
+ORD00700,Apparel,26,71681.12,Standard
+ORD00701,Personal Care,7,10556.63,Express
+ORD00702,Personal Care,12,66113.1,Critical
+ORD00703,Personal Care,16,84034.12,Express
+ORD00704,Grocery,5,50953.84,Express
+ORD00705,Electronics,25,9099.97,Express
+ORD00706,Electronics,19,19461.09,Standard
+ORD00707,Apparel,22,24937.34,Critical
+ORD00708,Industrial,30,41040.63,Standard
+ORD00709,Personal Care,14,47652.74,Critical
+ORD00710,Home & Kitchen,30,76672.5,Standard
+ORD00711,Apparel,24,24404.47,Express
+ORD00712,Grocery,14,65002.68,Critical
+ORD00713,Grocery,22,72819.93,Critical
+ORD00714,Electronics,20,46985.53,Standard
+ORD00715,Home & Kitchen,26,80006.4,Critical
+ORD00716,Home & Kitchen,6,59355.52,Standard
+ORD00717,Electronics,27,24003.14,Express
+ORD00718,Grocery,1,43456.14,Critical
+ORD00719,Industrial,6,2657.03,Critical
+ORD00720,Personal Care,26,68660.44,Standard
+ORD00721,Home & Kitchen,17,40371.59,Express
+ORD00722,Industrial,5,16489.21,Critical
+ORD00723,Personal Care,11,32924.35,Critical
+ORD00724,Industrial,23,50914.93,Standard
+ORD00725,Apparel,23,78550.78,Standard
+ORD00726,Apparel,22,17522.27,Express
+ORD00727,Home & Kitchen,6,81300.14,Standard
+ORD00728,Electronics,29,70918.97,Express
+ORD00729,Grocery,2,21102.17,Express
+ORD00730,Electronics,5,33560.11,Express
+ORD00731,Industrial,12,7528.29,Express
+ORD00732,Industrial,18,20330.74,Express
+ORD00733,Home & Kitchen,19,2264.26,Critical
+ORD00734,Apparel,11,40059.94,Express
+ORD00735,Personal Care,10,9223.82,Standard
+ORD00736,Industrial,15,65261.6,Critical
+ORD00737,Personal Care,7,80232.73,Critical
+ORD00738,Home & Kitchen,14,20622.93,Express
+ORD00739,Apparel,30,51871.8,Critical
+ORD00740,Apparel,10,57811.25,Standard
+ORD00741,Home & Kitchen,22,9736.07,Standard
+ORD00742,Industrial,7,14372.26,Express
+ORD00743,Personal Care,11,29353.97,Standard
+ORD00744,Apparel,28,44126.14,Critical
+ORD00745,Industrial,20,6358.79,Critical
+ORD00746,Home & Kitchen,21,16334.22,Standard
+ORD00747,Apparel,10,24889.12,Express
+ORD00748,Electronics,21,20472.38,Standard
+ORD00749,Electronics,13,36991.99,Express
+ORD00750,Grocery,27,37587.15,Express
+ORD00751,Electronics,10,43040.29,Express
+ORD00752,Personal Care,9,27501.33,Standard
+ORD00753,Personal Care,30,30568.85,Critical
+ORD00754,Industrial,2,36790.81,Critical
+ORD00755,Industrial,4,17437.72,Express
+ORD00756,Home & Kitchen,24,49232.55,Standard
+ORD00757,Personal Care,11,34300.21,Standard
+ORD00758,Grocery,1,51281.14,Express
+ORD00759,Industrial,12,79464.42,Express
+ORD00760,Home & Kitchen,1,59982.85,Standard
+ORD00761,Electronics,9,52931.73,Express
+ORD00762,Apparel,7,20643.24,Critical
+ORD00763,Apparel,18,83169.63,Critical
+ORD00764,Industrial,28,57944.83,Critical
+ORD00765,Electronics,11,21487.21,Standard
+ORD00766,Personal Care,6,79949.56,Standard
+ORD00767,Apparel,1,3548.19,Express
+ORD00768,Apparel,20,8569.34,Standard
+ORD00769,Personal Care,13,35272.47,Express
+ORD00770,Apparel,16,16312.64,Standard
+ORD00771,Industrial,14,3897.77,Express
+ORD00772,Industrial,21,79949.88,Express
+ORD00773,Home & Kitchen,15,44537.56,Standard
+ORD00774,Home & Kitchen,19,10033.43,Express
+ORD00775,Industrial,21,76423.29,Standard
+ORD00776,Electronics,5,64208.33,Express
+ORD00777,Grocery,12,58094.15,Critical
+ORD00778,Personal Care,21,83470.96,Express
+ORD00779,Apparel,3,58703.09,Express
+ORD00780,Personal Care,5,4742.54,Express
+ORD00781,Home & Kitchen,30,53830.21,Critical
+ORD00782,Personal Care,4,21990.12,Standard
+ORD00783,Industrial,21,20919.52,Standard
+ORD00784,Personal Care,1,6098.93,Critical
+ORD00785,Home & Kitchen,2,19631.93,Express
+ORD00786,Personal Care,10,69159.57,Express
+ORD00787,Grocery,26,20418.98,Standard
+ORD00788,Home & Kitchen,23,47465.05,Express
+ORD00789,Electronics,27,36912.28,Standard
+ORD00790,Home & Kitchen,4,36069.37,Standard
+ORD00791,Personal Care,18,8043.72,Express
+ORD00792,Home & Kitchen,27,8214.58,Standard
+ORD00793,Electronics,13,14331.51,Standard
+ORD00794,Apparel,17,66334.24,Express
+ORD00795,Personal Care,12,46242.92,Standard
+ORD00796,Grocery,7,45066.33,Express
+ORD00797,Apparel,8,11229.98,Standard
+ORD00798,Apparel,29,70278.95,Standard
+ORD00799,Electronics,17,30008.36,Critical
+ORD00800,Home & Kitchen,20,6924.36,Standard
+ORD00801,Electronics,27,73949.2,Standard
+ORD00802,Electronics,25,82501.77,Express
+ORD00803,Grocery,20,71047.71,Critical
+ORD00804,Electronics,4,9181.41,Critical
+ORD00805,Grocery,25,9141.46,Express
+ORD00806,Industrial,15,19069.16,Standard
+ORD00807,Home & Kitchen,25,15903.17,Express
+ORD00808,Grocery,18,2983.49,Standard
+ORD00809,Grocery,10,69534.49,Standard
+ORD00810,Personal Care,1,1956.33,Critical
+ORD00811,Electronics,9,81647.99,Critical
+ORD00812,Electronics,24,69763.34,Critical
+ORD00813,Personal Care,28,22243.64,Express
+ORD00814,Grocery,22,21451.74,Critical
+ORD00815,Grocery,19,25801.78,Critical
+ORD00816,Personal Care,5,69459.34,Standard
+ORD00817,Grocery,2,37352.01,Critical
+ORD00818,Grocery,16,47421.87,Express
+ORD00819,Grocery,3,81475.4,Express
+ORD00820,Electronics,28,65625.17,Express
+ORD00821,Home & Kitchen,5,52335.05,Critical
+ORD00822,Grocery,14,45781.96,Standard
+ORD00823,Personal Care,13,3370.2,Critical
+ORD00824,Home & Kitchen,30,74945.49,Critical
+ORD00825,Industrial,14,56433.88,Express
+ORD00826,Electronics,9,47178.76,Express
+ORD00827,Industrial,1,60995.46,Express
+ORD00828,Home & Kitchen,27,71063.26,Critical
+ORD00829,Personal Care,21,76095.03,Critical
+ORD00830,Grocery,14,67153.56,Critical
+ORD00831,Grocery,4,3299.69,Express
+ORD00832,Apparel,24,33345.44,Critical
+ORD00833,Home & Kitchen,26,71724.38,Standard
+ORD00834,Home & Kitchen,9,58216.0,Critical
+ORD00835,Home & Kitchen,30,83878.99,Standard
+ORD00836,Electronics,21,84999.46,Standard
+ORD00837,Electronics,6,47201.98,Critical
+ORD00838,Home & Kitchen,17,19312.8,Express
+ORD00839,Electronics,12,19752.09,Express
+ORD00840,Industrial,4,54098.51,Standard
+ORD00841,Grocery,9,19488.31,Critical
+ORD00842,Home & Kitchen,22,47878.95,Express
+ORD00843,Home & Kitchen,27,68084.72,Critical
+ORD00844,Industrial,5,63578.81,Critical
+ORD00845,Industrial,26,65656.28,Critical
+ORD00846,Apparel,18,53870.38,Express
+ORD00847,Personal Care,7,18346.09,Critical
+ORD00848,Personal Care,11,21563.62,Critical
+ORD00849,Grocery,8,27701.19,Express
+ORD00850,Apparel,9,6191.56,Critical
+ORD00851,Personal Care,26,10066.53,Express
+ORD00852,Personal Care,9,60967.73,Express
+ORD00853,Personal Care,8,47793.68,Standard
+ORD00854,Home & Kitchen,9,27370.46,Critical
+ORD00855,Industrial,12,83020.92,Critical
+ORD00856,Apparel,15,49388.28,Express
+ORD00857,Electronics,24,49252.01,Standard
+ORD00858,Grocery,30,16712.16,Express
+ORD00859,Apparel,18,5298.11,Standard
+ORD00860,Industrial,12,39111.11,Critical
+ORD00861,Home & Kitchen,3,52375.71,Standard
+ORD00862,Electronics,20,35860.61,Critical
+ORD00863,Personal Care,24,80531.38,Express
+ORD00864,Home & Kitchen,15,66064.7,Critical
+ORD00865,Electronics,21,7730.55,Critical
+ORD00866,Industrial,12,18869.2,Express
+ORD00867,Home & Kitchen,5,64260.11,Express
+ORD00868,Apparel,11,23311.98,Standard
+ORD00869,Personal Care,6,31382.96,Critical
+ORD00870,Home & Kitchen,24,78306.5,Express
+ORD00871,Home & Kitchen,15,7277.04,Critical
+ORD00872,Industrial,2,40451.4,Standard
+ORD00873,Electronics,27,45888.95,Express
+ORD00874,Grocery,30,47428.39,Standard
+ORD00875,Grocery,25,72625.32,Express
+ORD00876,Personal Care,29,56349.93,Critical
+ORD00877,Industrial,6,15920.03,Standard
+ORD00878,Apparel,18,71299.88,Express
+ORD00879,Personal Care,26,21276.62,Standard
+ORD00880,Home & Kitchen,3,66503.35,Standard
+ORD00881,Industrial,26,56110.04,Standard
+ORD00882,Electronics,14,52973.99,Critical
+ORD00883,Electronics,25,69080.82,Express
+ORD00884,Personal Care,13,4808.59,Standard
+ORD00885,Electronics,3,22139.23,Critical
+ORD00886,Home & Kitchen,7,15749.06,Critical
+ORD00887,home & kitchen,8,17697.29,Standard
+ORD00888,Electronics,1,65824.18,Express
+ORD00889,Apparel,7,26468.0,Standard
+ORD00890,Grocery,29,30647.91,Critical
+ORD00891,Industrial,6,45338.57,Standard
+ORD00892,Grocery,27,34602.21,Express
+ORD00893,Personal Care,7,20783.94,Standard
+ORD00894,Personal Care,29,61311.09,Express
+ORD00895,Apparel,10,31831.28,Standard
+ORD00896,Apparel,22,3389.75,Critical
+ORD00897,Electronics,6,72070.44,Critical
+ORD00898,Electronics,1,71179.14,Critical
+ORD00899,Grocery,27,69186.96,Standard
+ORD00900,Industrial,22,59093.85,Standard
+ORD00901,Grocery,27,10387.74,Critical
+ORD00902,Industrial,28,45860.7,Standard
+ORD00903,Home & Kitchen,27,75523.73,Standard
+ORD00904,Personal Care,4,76708.38,Standard
+ORD00905,Electronics,23,22959.94,Critical
+ORD00906,Grocery,8,31145.36,Standard
+ORD00907,Industrial,25,37736.23,Express
+ORD00908,Personal Care,15,42789.27,Express
+ORD00909,Electronics,19,58031.48,Express
+ORD00910,Electronics,21,57876.64,Standard
+ORD00911,Electronics,14,9291.51,Critical
+ORD00912,Grocery,8,62827.6,Standard
+ORD00913,Home & Kitchen,29,56095.62,Standard
+ORD00914,Home & Kitchen,12,48086.71,Standard
+ORD00915,Personal Care,17,5898.22,Standard
+ORD00916,Apparel,4,46037.4,Express
+ORD00917,Industrial,1,18732.94,Express
+ORD00918,Home & Kitchen,10,48728.0,Standard
+ORD00919,Home & Kitchen,27,29834.41,Express
+ORD00920,Grocery,14,27904.88,Standard
+ORD00921,Personal Care,30,42326.01,Critical
+ORD00922,Apparel,16,47798.18,Express
+ORD00923,Electronics,19,30963.36,Critical
+ORD00924,Home & Kitchen,7,60138.31,Express
+ORD00925,Grocery,12,5290.09,Express
+ORD00926,Apparel,15,80649.31,Express
+ORD00927,Grocery,27,44976.5,Standard
+ORD00928,Electronics,30,83112.15,Express
+ORD00929,Apparel,6,69524.65,Standard
+ORD00930,Electronics,3,40575.97,Critical
+ORD00931,Electronics,13,82049.68,Critical
+ORD00932,Grocery,15,13639.7,Express
+ORD00933,Personal Care,18,21706.37,Critical
+ORD00934,Grocery,3,42448.43,Express
+ORD00935,Industrial,28,24755.69,Standard
+ORD00936,Home & Kitchen,9,4988.03,Standard
+ORD00937,Electronics,6,65272.98,Express
+ORD00938,Industrial,29,61193.14,Express
+ORD00939,Industrial,5,27456.72,Critical
+ORD00940,Personal Care,25,19555.91,Express
+ORD00941,Home & Kitchen,21,38381.79,Standard
+ORD00942,Electronics,19,84648.28,Express
+ORD00943,Industrial,21,82470.07,Critical
+ORD00944,Industrial,1,39190.15,Standard
+ORD00945,Industrial,11,55506.46,Express
+ORD00946,Home & Kitchen,13,74176.34,Critical
+ORD00947,Apparel,16,3168.9,Express
+ORD00948,Home & Kitchen,4,59908.1,Critical
+ORD00949,Grocery,2,35851.57,Critical
+ORD00950,Apparel,24,67064.78,Critical
+ORD00951,Personal Care,6,49561.78,Standard
+ORD00952,Apparel,24,36337.27,Standard
+ORD00953,Home & Kitchen,13,51991.81,Standard
+ORD00954,Personal Care,16,29864.54,Express
+ORD00955,Industrial,2,16395.95,Critical
+ORD00956,Grocery,21,69579.98,Critical
+ORD00957,Electronics,14,43105.98,Critical
+ORD00958,Industrial,11,15424.84,Express
+ORD00959,Home & Kitchen,3,39133.18,Critical
+ORD00960,Grocery,5,35235.48,Standard
+ORD00961,Apparel,4,17909.06,Standard
+ORD00962,Apparel,1,10722.42,Express
+ORD00963,Home & Kitchen,1,66433.03,Critical
+ORD00964,Electronics,12,79528.43,Critical
+ORD00965,Grocery,1,79442.82,Express
+ORD00966,Apparel,28,30556.06,Standard
+ORD00967,Apparel,17,17555.77,Critical
+ORD00968,Electronics,1,54478.47,Express
+ORD00969,Home & Kitchen,17,29155.9,Critical
+ORD00970,Industrial,14,3553.32,Standard
+ORD00971,Personal Care,30,4124.16,Standard
+ORD00972,Apparel,29,77182.56,Standard
+ORD00973,Electronics,11,73566.68,Standard
+ORD00974,Home & Kitchen,19,36086.56,Critical
+ORD00975,Home & Kitchen,2,60703.1,Express
+ORD00976,Electronics,21,23263.75,Standard
+ORD00977,Electronics,25,4640.82,Express
+ORD00978,Apparel,20,74649.66,Critical
+ORD00979,Home & Kitchen,27,39983.63,Standard
+ORD00980,Apparel,17,70497.93,Express
+ORD00981,Industrial,3,32811.58,Express
+ORD00982,Electronics,22,45882.62,Express
+ORD00983,Apparel,28,36255.01,Express
+ORD00984,Electronics,19,43200.52,Express
+ORD00985,Personal Care,11,42248.77,Critical
+ORD00986,Industrial,17,4166.59,Standard
+ORD00987,Home & Kitchen,3,44810.83,Express
+ORD00988,Industrial,28,73074.76,Express
+ORD00989,Industrial,4,58945.13,Standard
+ORD00990,Personal Care,15,79249.91,Critical
+ORD00991,Industrial,7,38571.12,Critical
+ORD00992,Home & Kitchen,30,48444.99,Standard
+ORD00993,Home & Kitchen,20,66712.35,Critical
+ORD00994,Electronics,13,66211.09,Critical
+ORD00995,Grocery,13,65252.78,Express
+ORD00996,Industrial,24,79499.63,Standard
+ORD00997,Home & Kitchen,17,15721.11,Express
+ORD00998,Grocery,6,71067.77,Critical
+ORD00999,Apparel,26,35507.21,Standard
+ORD01000,Grocery,8,26550.99,Critical
+ORD01001,Personal Care,15,32631.83,Critical
+ORD01002,Electronics,13,2655.62,Critical
+ORD01003,Industrial,18,65911.1,Critical
+ORD01004,Home & Kitchen,3,39475.94,Express
+ORD01005,Personal Care,18,82553.76,Standard
+ORD01006,Electronics,2,38122.99,Express
+ORD01007,Home & Kitchen,24,71720.11,Standard
+ORD01008,Home & Kitchen,5,65176.44,Critical
+ORD01009,Electronics,19,61759.39,Express
+ORD01010,Home & Kitchen,13,49822.29,Critical
+ORD01011,Grocery,8,6896.27,Express
+ORD01012,Home & Kitchen,26,77677.38,Critical
+ORD01013,Grocery,15,36062.96,Express
+ORD01014,Home & Kitchen,8,17583.78,Express
+ORD01015,Electronics,22,60173.19,Standard
+ORD01016,Grocery,24,57298.55,Standard
+ORD01017,Apparel,27,49447.75,Critical
+ORD01018,Apparel,11,65185.18,Standard
+ORD01019,Apparel,25,67128.32,Critical
+ORD01020,Personal Care,21,61873.52,Express
+ORD01021,Grocery,1,78189.86,Critical
+ORD01022,Grocery,14,12149.75,Critical
+ORD01023,Grocery,1,70174.63,Critical
+ORD01024,Electronics,6,52116.2,Standard
+ORD01025,Home & Kitchen,10,26395.62,Standard
+ORD01026,Apparel,4,28328.26,Express
+ORD01027,home & kitchen,7,17847.28,Standard
+ORD01028,Apparel,16,54148.03,Standard
+ORD01029,Personal Care,16,61080.0,Standard
+ORD01030,Electronics,18,9825.05,Express
+ORD01031,Apparel,13,68451.86,Standard
+ORD01032,Personal Care,4,61533.91,Express
+ORD01033,Grocery,23,84706.43,Standard
+ORD01034,Home & Kitchen,16,77770.22,Critical
+ORD01035,Apparel,17,49207.93,Critical
+ORD01036,Industrial,4,51802.28,Critical
+ORD01037,Industrial,2,28949.25,Critical
+ORD01038,Industrial,28,46571.82,Standard
+ORD01039,Industrial,22,2355.79,Critical
+ORD01040,Personal Care,3,29928.66,Critical
+ORD01041,Electronics,25,12415.9,Standard
+ORD01042,Electronics,8,52268.07,Critical
+ORD01043,Electronics,20,11947.93,Standard
+ORD01044,Industrial,29,65404.31,Standard
+ORD01045,Industrial,29,29545.64,Critical
+ORD01046,Home & Kitchen,3,68644.13,Critical
+ORD01047,Personal Care,5,6573.8,Standard
+ORD01048,Industrial,22,38972.98,Critical
+ORD01049,Grocery,30,66010.34,Express
+ORD01050,Home & Kitchen,18,37655.8,Standard
+ORD01051,Apparel,6,74113.9,Standard
+ORD01052,Personal Care,27,22993.44,Express
+ORD01053,Grocery,7,24801.66,Express
+ORD01054,Grocery,24,69535.47,Critical
+ORD01055,Apparel,1,80399.06,Critical
+ORD01056,Home & Kitchen,9,8146.45,Standard
+ORD01057,Grocery,27,40817.25,Standard
+ORD01058,Personal Care,29,57774.13,Critical
+ORD01059,Personal Care,18,31589.06,Critical
+ORD01060,Electronics,20,70107.95,Critical
+ORD01061,Home & Kitchen,17,58045.0,Standard
+ORD01062,Apparel,5,76344.22,Standard
+ORD01063,Grocery,16,78860.78,Standard
+ORD01064,Grocery,29,34187.21,Standard
+ORD01065,Personal Care,19,68699.08,Critical
+ORD01066,Home & Kitchen,29,43883.84,Critical
+ORD01067,Personal Care,12,65038.33,Critical
+ORD01068,Electronics,27,18336.61,Critical
+ORD01069,Personal Care,27,8896.4,Critical
+ORD01070,Personal Care,28,23786.9,Critical
+ORD01071,Apparel,9,48131.41,Standard
+ORD01072,Electronics,11,74525.77,Standard
+ORD01073,Apparel,28,45158.79,Standard
+ORD01074,Grocery,17,83058.73,Critical
+ORD01075,Electronics,4,22777.18,Express
+ORD01076,Electronics,24,35897.05,Express
+ORD01077,Home & Kitchen,6,22400.64,Standard
+ORD01078,Electronics,17,28953.91,Express
+ORD01079,Grocery,11,44062.52,Express
+ORD01080,Electronics,3,54374.83,Express
+ORD01081,Grocery,15,3300.7,Standard
+ORD01082,Personal Care,4,24037.47,Standard
+ORD01083,Home & Kitchen,26,39821.89,Standard
+ORD01084,Electronics,13,27064.8,Critical
+ORD01085,Grocery,28,36198.38,Critical
+ORD01086,Personal Care,19,16895.69,Critical
+ORD01087,Grocery,27,18152.65,Standard
+ORD01088,home & kitchen,11,41979.59,Standard
+ORD01089,Home & Kitchen,15,67176.42,Express
+ORD01090,Personal Care,14,36032.01,Standard
+ORD01091,Personal Care,10,19195.16,Critical
+ORD01092,Grocery,10,37831.02,Critical
+ORD01093,Grocery,30,14521.94,Critical
+ORD01094,Grocery,25,42524.25,Critical
+ORD01095,Apparel,4,71446.93,Express
+ORD01096,Apparel,25,13656.68,Critical
+ORD01097,Grocery,3,81018.56,Standard
+ORD01098,Apparel,21,44364.52,Standard
+ORD01099,Apparel,10,48572.44,Critical
+ORD01100,Home & Kitchen,13,31020.35,Express
+ORD01101,Electronics,23,16894.05,Critical
+ORD01102,Personal Care,28,75125.21,Critical
+ORD01103,Home & Kitchen,2,30816.44,Critical
+ORD01104,Apparel,5,43532.7,Express
+ORD01105,Personal Care,17,19379.83,Express
+ORD01106,Home & Kitchen,8,36515.51,Critical
+ORD01107,Apparel,2,14897.74,Express
+ORD01108,Grocery,16,71967.72,Standard
+ORD01109,Grocery,16,12413.94,Standard
+ORD01110,Grocery,12,46162.43,Express
+ORD01111,Industrial,26,54252.41,Express
+ORD01112,Electronics,20,43335.35,Critical
+ORD01113,Industrial,24,12576.18,Express
+ORD01114,Electronics,7,5753.01,Standard
+ORD01115,Personal Care,21,43661.06,Critical
+ORD01116,Electronics,25,38350.69,Standard
+ORD01117,Industrial,10,37819.45,Express
+ORD01118,Industrial,30,27994.43,Standard
+ORD01119,Grocery,9,77685.11,Critical
+ORD01120,Apparel,8,10378.67,Standard
+ORD01121,Grocery,24,71393.48,Critical
+ORD01122,Home & Kitchen,17,22867.14,Critical
+ORD01123,Grocery,10,26937.13,Critical
+ORD01124,Grocery,1,3240.43,Express
+ORD01125,Electronics,15,56669.62,Express
+ORD01126,Industrial,24,27293.16,Express
+ORD01127,Industrial,30,40022.24,Critical
+ORD01128,Apparel,21,53035.05,Critical
+ORD01129,Grocery,26,61665.86,Express
+ORD01130,Home & Kitchen,13,1257.86,Express
+ORD01131,Apparel,29,37859.64,Critical
+ORD01132,Grocery,15,67565.48,Standard
+ORD01133,Personal Care,7,62340.91,Critical
+ORD01134,Personal Care,29,39944.18,Critical
+ORD01135,Home & Kitchen,14,16916.67,Express
+ORD01136,Home & Kitchen,13,46055.32,Express
+ORD01137,Home & Kitchen,5,38441.57,Standard
+ORD01138,Electronics,13,23860.77,Critical
+ORD01139,Electronics,22,15062.69,Critical
+ORD01140,Grocery,16,74309.3,Critical
+ORD01141,Grocery,28,23270.47,Critical
+ORD01142,Industrial,6,29535.77,Express
+ORD01143,Industrial,11,13031.64,Critical
+ORD01144,Electronics,22,66583.17,Critical
+ORD01145,Personal Care,23,11491.54,Express
+ORD01146,Home & Kitchen,1,19950.93,Standard
+ORD01147,Home & Kitchen,1,53222.36,Standard
+ORD01148,Electronics,17,83561.93,Critical
+ORD01149,Personal Care,1,10838.27,Express
+ORD01150,Industrial,26,57258.43,Express
+ORD01151,Apparel,4,33570.28,Standard
+ORD01152,Electronics,16,49411.74,Standard
+ORD01153,Industrial,28,68821.01,Critical
+ORD01154,Personal Care,2,80971.05,Critical
+ORD01155,Industrial,25,78606.28,Standard
+ORD01156,Apparel,17,53984.16,Standard
+ORD01157,Personal Care,14,76927.16,Critical
+ORD01158,Electronics,4,7871.07,Standard
+ORD01159,Electronics,6,63016.98,Express
+ORD01160,Apparel,18,70128.66,Critical
+ORD01161,Grocery,30,79776.19,Standard
+ORD01162,Apparel,15,40487.92,Express
+ORD01163,Industrial,10,58866.87,Express
+ORD01164,Industrial,25,18020.87,Standard
+ORD01165,Personal Care,10,35387.56,Critical
+ORD01166,Apparel,17,32443.28,Critical
+ORD01167,Personal Care,7,21505.14,Express
+ORD01168,Apparel,12,5122.98,Standard
+ORD01169,Personal Care,6,79940.29,Standard
+ORD01170,Electronics,30,59480.04,Critical
+ORD01171,Apparel,17,43481.87,Standard
+ORD01172,Industrial,23,28885.77,Standard
+ORD01173,Home & Kitchen,24,60577.43,Critical
+ORD01174,Industrial,20,8281.84,Standard
+ORD01175,Electronics,5,30648.45,Standard
+ORD01176,Home & Kitchen,18,43544.5,Express
+ORD01177,Apparel,16,39071.7,Critical
+ORD01178,Grocery,23,14592.47,Critical
+ORD01179,home & kitchen,4,21593.15,Critical
+ORD01180,Electronics,1,8647.22,Critical
+ORD01181,Personal Care,7,78380.1,Standard
+ORD01182,Personal Care,14,81022.09,Critical
+ORD01183,Grocery,12,25556.84,Express
+ORD01184,Home & Kitchen,5,71023.38,Critical
+ORD01185,Industrial,10,54154.19,Express
+ORD01186,Apparel,13,39998.72,Express
+ORD01187,Home & Kitchen,26,56141.49,Express
+ORD01188,Electronics,2,14821.55,Critical
+ORD01189,Grocery,5,77194.36,Critical
+ORD01190,Grocery,15,49901.61,Critical
+ORD01191,Electronics,13,49142.95,Express
+ORD01192,Electronics,26,70878.02,Standard
+ORD01193,Electronics,15,74369.97,Express
+ORD01194,Home & Kitchen,2,81899.89,Express
+ORD01195, electronics ,8,8253.71,Critical
+ORD01196,Electronics,26,71531.9,Express
+ORD01197,Home & Kitchen,7,58836.66,Standard
+ORD01198,Personal Care,4,12620.23,Critical
+ORD01199,Grocery,9,48041.83,Express
+ORD01200,Home & Kitchen,7,5921.45,Express
+ORD00674,Grocery,19,77247.93,Standard
+ORD01059,Personal Care,18,31589.06,Critical
+ORD00817,Grocery,2,37352.01,Critical
+ORD01155,Industrial,25,78606.28,Standard
