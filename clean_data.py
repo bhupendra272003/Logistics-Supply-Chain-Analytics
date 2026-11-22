@@ -105,12 +105,8 @@ def main() -> None:
         shipments["dispatch_date"].lt(shipments["order_date"])
         | shipments["delivery_date"].lt(shipments["dispatch_date"])
     )
-    negative_metrics = (
-        shipments[list(numeric_shipment_columns)].lt(0).any(axis=1)
-        | orders[["quantity", "order_value_inr"]].lt(0).any(axis=1).reindex(
-            shipments.index, fill_value=False
-        )
-    )
+    negative_shipment_metrics = shipments[list(numeric_shipment_columns)].lt(0).any(axis=1)
+    negative_order_metrics = orders[["quantity", "order_value_inr"]].lt(0).any(axis=1)
     # Delay is meaningful only for delivered shipments with valid duration and promise.
     valid_delay = (
         shipments["shipment_status"].eq("Delivered")
@@ -125,7 +121,7 @@ def main() -> None:
     shipments.loc[valid_delay, "delay_days"] = delay_values.astype("Int64")
 
     known_modes = {"Road", "Air", "Rail"}
-    known_statuses = {"Delivered", "In Transit", "Pending", "Cancelled"}
+    known_statuses = {"Delivered", "In Transit"}
     missing_key_or_date = (
         shipments[["shipment_id", "order_id", "origin_location_id",
                    "destination_location_id", "carrier_id"]].isna().any(axis=1)
@@ -136,7 +132,7 @@ def main() -> None:
         | ~shipments["shipment_status"].isin(known_statuses)
     )
     shipments["data_quality_issue"] = (
-        missing_key_or_date | invalid_date_sequence | negative_metrics | unknown_category
+        missing_key_or_date | invalid_date_sequence | negative_shipment_metrics | unknown_category
     )
 
     # Export clean snapshots; source CSVs stay untouched.
@@ -158,6 +154,8 @@ def main() -> None:
         f"Shipments flagged for quality review: {int(shipments['data_quality_issue'].sum()):,}",
         f"Invalid or inconsistent date sequences: {int(invalid_date_sequence.sum()):,}",
         f"Rows with missing critical shipment keys/dates: {int(missing_key_or_date.sum()):,}",
+        f"Rows with negative shipment measures: {int(negative_shipment_metrics.sum()):,}",
+        f"Orders with negative quantity/value: {int(negative_order_metrics.sum()):,}",
         f"Rows with unknown shipment category values: {int(unknown_category.sum()):,}",
         "",
         "Remaining missing values by output:",
