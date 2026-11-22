@@ -1,0 +1,40 @@
+name: Logistics data pipeline
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "clean_data.py"
+      - "*.csv"
+      - ".github/workflows/data-pipeline.yml"
+  pull_request:
+    branches: [main]
+    paths:
+      - "clean_data.py"
+      - "*.csv"
+      - ".github/workflows/data-pipeline.yml"
+  workflow_dispatch:
+
+jobs:
+  validate-cleaning-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip pandas
+      - name: Compile Python script
+        run: python -m compileall -q clean_data.py
+      - name: Run cleaning pipeline
+        run: python clean_data.py
+      - name: Verify generated outputs
+        run: |
+          test -s data/processed/shipments_clean.csv
+          test -s data/processed/orders_clean.csv
+          test -s data/processed/carriers_clean.csv
+          test -s data/processed/locations_clean.csv
+          test -s data/processed/cleaning_report.txt
